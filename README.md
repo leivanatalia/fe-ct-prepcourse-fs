@@ -1,4 +1,4 @@
-![HenryLogo](./assets/logoBannerHenry.png)
+npm ![HenryLogo](./assets/logoBannerHenry.png)
 
 # **🧑‍💻 PREP COURSE | HENRY 👩‍💻**
 
